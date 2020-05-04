@@ -1,2 +1,2 @@
 # deepLink
-[Deep Link](deepLink.shtml)
+[Deep Link](com.example.deepLinking.DeepLink)
