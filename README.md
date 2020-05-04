@@ -1,2 +1,2 @@
 # deepLink
-[Deep Link](www.github.com/deepLink.shtml)
+[Deep Link](deepLink.shtml)
